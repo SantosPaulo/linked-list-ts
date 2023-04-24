@@ -1,5 +1,5 @@
 # linked-list-ts
-Funny implementation of linked list just for fun.
+Implementation of linked list in typescript just for fun.
 
 Start live server:
 ```
